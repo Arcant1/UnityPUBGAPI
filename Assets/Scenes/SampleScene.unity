@@ -904,6 +904,16 @@ PrefabInstance:
       propertyPath: m_ReferenceResolution.y
       value: 1080
       objectReference: {fileID: 0}
+    - target: {fileID: 5795374346602179054, guid: fd3e191bd07f17945a9e099e49899b90,
+        type: 3}
+      propertyPath: m_MatchWidthOrHeight
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795374346602179055, guid: fd3e191bd07f17945a9e099e49899b90,
+        type: 3}
+      propertyPath: m_RenderMode
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5795374346602179056, guid: fd3e191bd07f17945a9e099e49899b90,
         type: 3}
       propertyPath: m_LocalPosition.x
